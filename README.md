@@ -29,4 +29,4 @@ Uygulama, MVVM mimarisi prensiplerine uygun olarak tasarlanmıştır. Temel bile
 Proje dosyalarını bilgisayarınıza klonlayın veya ZIP olarak indirin. Android Studio'da açın ve emülatör veya fiziksel bir cihaz üzerinde çalıştırın.
 
 ```bash
-git clone https://github.com/kullanici/alisveris-listesi-uygulamasi.git
+git clone https://github.com/hariellevardamir/MVVMShoppingList.git
